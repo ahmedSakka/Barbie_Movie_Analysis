@@ -54,6 +54,7 @@ I performed sentiment analysis on the user reviews using TextBlob. Reviews were 
 ### Data Visualization
 
 visualized the distribution of sentiment categories in the reviews using bar charts and pie charts.
+Make sure to learn more about the insights by checking the visualization on [**Tableau**](https://public.tableau.com/app/profile/ahmed.sakka/viz/BarbieMovieAnalysis/Dashboard1)
 
 ## Usage
 
